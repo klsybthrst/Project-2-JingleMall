@@ -1,7 +1,7 @@
 # Jingle Mall
 
 <h2>Concept</h2>
-<p>Welcome to our interactive shopping list. The user can seach multiple stores to find gifts and then organize them in an interactive list. The gift items can move between lists depending on the stage the gift is in</p>
+<p>Welcome to our interactive shopping list. The user can search multiple stores to find gifts and then organize them in an interactive list. The gift items can move between lists depending on the stage the gift is in</p>
 
 <h2>Contributors</h2>
 <h3>The Holiday Hackers</h3>
